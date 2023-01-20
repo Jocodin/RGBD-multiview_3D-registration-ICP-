@@ -24,6 +24,6 @@ This is the additional version for RGBD-multiview 3D-registration. (ICP algorith
   if you need an increase in accuracy, run icp.py (it change RT matrix)\
   run pc_combine.py again
   
-ICP
-  Applied icp algorithm using closest point, and used point of specific range to work properly.
+ICP\
+  Applied icp algorithm using closest point, and used point of specific range to work properly.\
   (point of specific range : only use point that distance's in range 10<=d<20, it is more efficient than using all points)
