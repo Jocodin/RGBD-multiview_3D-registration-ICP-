@@ -27,3 +27,6 @@ This is the additional version for RGBD-multiview 3D-registration. (ICP algorith
 ICP\
   Applied icp algorithm using closest point, and used point of specific range to work properly.\
   (point of specific range : only use point that distance's in range 10<=d<20, it is more efficient than using all points)
+
+![1-1](https://user-images.githubusercontent.com/83062612/213607751-38c34c2d-752a-491c-87a6-faad0254d4c1.PNG)
+![2-1](https://user-images.githubusercontent.com/83062612/213607773-1c42230a-afc2-40fc-bc86-a4b81658f7fb.PNG)
